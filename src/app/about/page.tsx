@@ -46,7 +46,7 @@ export default function About() {
           <motion.div variants={fadeIn}>
             <h2 className="text-2xl md:text-3xl font-bold mb-4">Our Mission</h2>
             <p className="text-textgray/90 mb-6">
-              ScholarChain was founded with a simple yet powerful mission: to democratize access to education funding
+              SarasVathi was founded with a simple yet powerful mission: to democratize access to education funding
               through blockchain technology. We believe that every student deserves a fair chance at educational
               opportunities, regardless of their background or circumstances.
             </p>
@@ -61,7 +61,7 @@ export default function About() {
               "Education is the most powerful weapon which you can use to change the world. At ScholarChain, we're
               making sure that weapon is accessible to all."
             </blockquote>
-            <p className="mt-4 font-semibold">— Dr. Sarah Chen, Founder & CEO</p>
+            <p className="mt-4 font-semibold">— Mr. Srigade Manikanta , Founder & CEO</p>
           </motion.div>
         </motion.div>
 

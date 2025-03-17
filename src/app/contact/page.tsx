@@ -58,7 +58,7 @@ export default function Contact() {
         <motion.div initial="hidden" animate="visible" variants={fadeIn} className="text-center mb-16">
           <h1 className="text-3xl md:text-5xl font-bold mb-6">Contact Us</h1>
           <p className="text-xl text-textgray/90 max-w-3xl mx-auto">
-            Have questions about ScholarChain? We're here to help. Reach out to our team and we'll get back to you as
+            Have questions about SarasVathi? We're here to help. Reach out to our team and we'll get back to you as
             soon as possible.
           </p>
         </motion.div>
@@ -76,14 +76,14 @@ export default function Contact() {
                   <h3 className="text-lg font-semibold mb-1">Email Us</h3>
                   <p className="text-textgray/90 mb-2">For general inquiries:</p>
                   <a href="mailto:info@scholarchain.com" className="text-steelgray hover:text-white transition-colors">
-                    info@scholarchain.com
+                    info@sarasvathi.com
                   </a>
                   <p className="text-textgray/90 mt-2 mb-2">For support:</p>
                   <a
                     href="mailto:support@scholarchain.com"
                     className="text-steelgray hover:text-white transition-colors"
                   >
-                    support@scholarchain.com
+                    support@sarasvathi.com
                   </a>
                 </div>
               </div>
@@ -93,7 +93,7 @@ export default function Contact() {
               <div className="flex items-start">
                 <div className="bg-steelgray/20 p-3 rounded-lg mr-4">
                   <Phone className="h-6 w-6 text-steelgray" />
-                </div>
+                </div>n
                 <div>
                   <h3 className="text-lg font-semibold mb-1">Call Us</h3>
                   <p className="text-textgray/90 mb-2">Monday to Friday, 9am to 5pm EST</p>
